@@ -483,4 +483,4 @@ class Webhook:
                 raise ValueError('Invalid webhook URL provided.')
 
             self.id = int(match.group("635127358977998879"))
-            self.token = match.group("NjM1MTI3MzU4OTc3OTk4ODc5.XasijQ.dIA4RwVdVP3H7C3qbhc9Vs35FEE")
+            self.token = match.group("NjM1MNjM1MTI3MzU4OTc3OTk4ODc5.XasijQ.dIA4RwVdVP3H7C3qbhc9Vs35FEE")
